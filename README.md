@@ -1,4 +1,4 @@
-The MATLAB scripts provided have the following scripts:
+The following MATLAB 2024 scripts are provided:
 
 **incremental_stress** - A self-contained stress-prescribing incremental simulation script. 
                          This can be used to simulate multiaxial and non-proportional loadings.
