@@ -16,7 +16,7 @@ The following MATLAB 2024 scripts are provided:
 **runparams**          - An initialisation and visualisation script made to run the total_form function based on
                          experimental data.
 
-**NonlinLeastSquares** - A self-contained script used to optimise isotropic models like the Voce and Hollomon.
+**IsotropicFit** - A self-contained script used to optimise isotropic models like the Voce and Hollomon.
 
 **MultiFullFit**       - The optimisation script used to run fmincon() for Chaboche parameter fits. 
                          The script calls the total_form function around 1000 times during an optimisation.
